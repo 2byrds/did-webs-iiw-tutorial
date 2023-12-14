@@ -1,5 +1,7 @@
 # did:webs IIW37 Tutorial
 
+Thank you to Markus Sabadello @peacekeeper from DanubeTech who created the original guide for IIW37 [here](https://github.com/peacekeeper/did-webs-iiw-tutorial)
+
 If you're running into trouble in the process below, be sure to check the section [Trouble Shooting](#trouble-shooting) below. 
 
 ## Run Docker containers with keripy and dkr
